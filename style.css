@@ -1,0 +1,73 @@
+body{
+
+    border: 5px;
+
+
+    justify-items: center;
+    text-align: center;
+
+    background-color: rgb(247, 205, 127);
+
+    font-size: 50px;
+
+    background-image: url("bg.jpg");
+    background-size: cover;
+    
+
+
+ 
+}
+
+
+button{
+    background-color:#abbd83;
+    color:rgb(255, 255, 255);
+    border-radius: 15px;
+
+
+}
+
+
+
+#task-div{
+
+    background-color: #fbb26d;
+
+    border-radius: 15px;
+
+}
+
+ul{
+    list-style-type: none;
+    font-size: 50px;
+
+}
+
+
+
+li{
+
+    padding: none;
+    align-items: start;
+}
+h1 {
+    padding-top: 50px;
+}
+#app{background-color: rgb(255, 206, 114);}
+input[type="checkbox"]{
+    width:50px;
+    height: 50px;
+    accent-color: #b67659;
+}
+
+button,input{
+    font-size: 50px;
+    padding-left: 10px;
+    
+}
+
+#logo{
+
+    width: 90px;
+    border-radius: 15px;
+}

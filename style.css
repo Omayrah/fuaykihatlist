@@ -84,7 +84,9 @@ button,input{
 
 }
 
-a img{
 
-    width:20px;
+a img{
+    width:150px;
+    padding-left:100px;
+    padding-right:100px
 }

@@ -83,3 +83,8 @@ button,input{
 
 
 }
+
+a[img]{
+
+    width:20px;
+}

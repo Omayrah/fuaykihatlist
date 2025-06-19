@@ -74,7 +74,7 @@ button,input{
 
 
 
-#link:link,#link:visited,#link{
+#link,#link:link,#link:visited{
 
     background-color: rgb(255, 206, 114);
     color:#b67659;

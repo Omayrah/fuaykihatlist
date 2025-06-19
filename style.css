@@ -74,12 +74,12 @@ button,input{
 
 
 
-#link,#link:visited{
+#link,#link:visited,#link:link{
 
     background-color: rgb(255, 206, 114);
     color:#b67659;
     border-radius:15px;
-    text-decoration:none;
+    text-decoration: none;
 
 
 }
